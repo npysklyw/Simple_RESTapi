@@ -1,0 +1,22 @@
+{
+  "name": "lab5-npysklyw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaimaaAliECE/lab5-npysklyw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaimaaAliECE/lab5-npysklyw/issues"
+  },
+  "homepage": "https://github.com/ShaimaaAliECE/lab5-npysklyw#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
